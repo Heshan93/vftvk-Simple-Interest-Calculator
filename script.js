@@ -23,6 +23,8 @@ function compute()
 
 
     }
+
+//https://github.com/kirankumarsripati/vftvk-Simple-Interest-Calculator/blob/master/script.js
         
 
 
